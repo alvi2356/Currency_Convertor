@@ -1,0 +1,28 @@
+USD 1.00
+usd 1.00
+EUR 0.94
+eur 0.94
+GBP 0.73
+gbp 0.73
+JPY 112.53
+jpy 112.53
+CAD 1.26
+cad 1.26
+AUD 1.36
+aud 1.36
+CHF 0.91
+chf 0.91
+CNY 6.39
+cny 6.39
+INR 83.25
+inr 83.25
+MXN 20.08
+mxn 20.08
+TK 110.17
+tk 110.17
+PKR 280.31
+pkr 280.31
+BDT 110.17
+bdt 110.17
+
+
